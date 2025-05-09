@@ -6,6 +6,15 @@ Viewership data analysis to provide essential insights on how to grow the bright
 This project analyzes the viewership data for BrightTV across South Africa.  
 It includes key insights into audience demographics, channel preferences, and viewing behaviors, along with actionable recommendations for audience engagement.
 
+## 🎯 Objective, Aim, and Goal
+
+### Objective
+- To analyze BrightTV viewership data and extract key insights related to audience demographics, channel preferences, and viewing behavior. 
+Additionally, recommend actionable strategies that will boost audience engagement, viewer satisfaction, and overall platform growth.
+
+### Aim
+- To help BrightTV strengthen its content and marketing strategies through data-driven decision making.
+
 ## 💡 Motivation
 This project was created to explore TV viewership trends across South Africa and to practice real-world data analysis and visualization skills.
 
