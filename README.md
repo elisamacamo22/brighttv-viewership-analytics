@@ -73,7 +73,7 @@ Thanks to BrightTV and any data providers that made this analysis possible.
 ## 📬 Contact
 For any questions or collaborations:
 - Email: elisamacamo22@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/elisa-macamo)
+- LinkedIn: https://linkedin.com/in/elisa-macamo
 
 ---
 
