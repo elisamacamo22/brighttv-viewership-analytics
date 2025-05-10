@@ -38,7 +38,7 @@ This project was created to explore TV viewership trends across South Africa and
 - **Presentation**: BrightTV_Case_Study_with_Charts.pptx
 - **Report**: CASE STUDY(BRIGHTTV).pdf
 - **Excel analysis**: ANALYSE BRIGHTTV ON EXCEL_.pdf
-- **SnowFlake analysis**: 
+- **SnowFlake analysis**: Analysing BrightTV data on SNOWFLAKE.pdf
 ---
 
 ## 🔍 Key Insights
